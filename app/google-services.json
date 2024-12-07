@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700783197190",
+    "project_id": "appvet-944ce",
+    "storage_bucket": "appvet-944ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700783197190:android:4c99e10ca6e084d9e7d787",
+        "android_client_info": {
+          "package_name": "com.example.appvet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzc1mwV458xY0pDOatvUjswD1UrCiUFVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
